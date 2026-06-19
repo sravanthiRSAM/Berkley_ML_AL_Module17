@@ -1,10 +1,5 @@
 # Practical Application III — Comparing Classifiers
 
-**Author:** Sravanthi Gandu
-**Course:** UC Berkeley ML/AI — Module 17 Required Assignment 17.1
-
-## Overview
-
 This project compares four classifiers — **K-Nearest Neighbors, Logistic Regression, Decision Trees, and Support Vector Machines** — on a real marketing dataset from a Portuguese bank. The data comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing) and records the outcomes of **17 telemarketing campaigns** (May 2008 – Nov 2010, 41,188 contacts) selling long-term **term deposits**.
 
 📓 **Notebook:** [`prompt_III.ipynb`](prompt_III.ipynb)
